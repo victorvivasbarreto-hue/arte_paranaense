@@ -1,11 +1,14 @@
 body{
     background-color:#ACC8E5;
     color: #112A46;
+    font-family:Arial, sans-serif;
 
 }
 header{
     background-color: #ACC8E5;
     color:#112A46;
+    text-align: center;
+    padding: 30px;
 }
 h1 {font-size:36px ;}
 
