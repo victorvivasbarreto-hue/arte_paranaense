@@ -1,20 +1,20 @@
 body{
-    background-color: #054D40;
-    color: #87FFD7;
+    background-color:#112A46;
+    color: #ACC8E5;
 }
 header{
-    background-color: bisque;
-    color: black;
+    background-color: #112A46;
+    color:#ACC8E5;
 }
 main{
-    background-color: chartreuse;
-    color: chocolate;
+    background-color: #112A46;
+    color: #ACC8E5;
 }
 section{
-    background-color: crimson;
-    color: cornflowerblue;
+    background-color: #112A46;
+    color: #ACC8E5;
 }
 footer{
-    background-color: darkorchid;
-    color: darkkhaki;
+    background-color: #112A46;
+    color: #ACC8E5;
 }
