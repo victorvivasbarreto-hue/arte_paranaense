@@ -1,20 +1,16 @@
 body{
     background-color:#ACC8E5;
     color: #112A46;
+
 }
 header{
     background-color: #ACC8E5;
     color:#112A46;
 }
-main{
-    background-color: #ACC8E5;
-    color: #112A46;
-}
-section{
-    background-color: #ACC8E5;
-    color: #112A46;
-}
-footer{
-    background-color: #ACC8E5;
-    color: #112A46;;
+h1 {font-size:36px ;}
+
+h2 {color:#1F6AC1 ;}
+
+p {font-size:18px ;
+line-height:1.6 ;
 }
