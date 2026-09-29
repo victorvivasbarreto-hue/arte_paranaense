@@ -54,14 +54,21 @@ figcaption {
 
 }
 
-button{
-background-color: #112A46;
-color: aliceblue;
-border: none;
-padding: 10px 15px;
-border-radius: 8px;
-cursor: pointer;
+button {
+    background-color: #112A46;
+    color: aliceblue;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 8px;
+    cursor: pointer;
 }
-button:hover{
+
+button:hover {
     background-color: darkcyan;
+}
+
+.curtir {
+    display: block;
+    width: fit-content;
+    margin: 20px auto;
 }
