@@ -1,7 +1,7 @@
-const botãoCurtir = document.querySelectorAll(".curtir");
-botãoCurtir.forEach(function(botaoCurtir) {
+const botaoCurtir = document.querySelectorAll(".curtir");
+botaoCurtir.forEach(function(botaoCurtir) {
     let curtiu = false;
-    botãoCurtir.addEventListener("click", curtir);
+    botaoCurtir.addEventListener("click", curtir);
     function curtir(){
         const contador = botaoCurtir.querySelector("span");
         if(curtiu === false){
