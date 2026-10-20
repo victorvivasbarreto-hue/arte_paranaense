@@ -1,13 +1,13 @@
 :root{
---cor-fundo:red ;
+--cor-fundored:#FC0E00 ;
 --cor-texto:blue ;
---cor-principal:yellow ;
+--cor-principal:#C93028 ;
 --cor-secundaria:green ;
 --cor-hover:orange ;
---cor-superficie:pink ;
+--cor-superficie:#96413C ;
 --cor-card:purple ;
---cor-legenda:black ;
---cor-clara:brown ;
+--cor-legenda:#633E3C ;
+--cor-clara:#332929 ;
 --cor-radape:grey ;
 
 }
